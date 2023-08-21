@@ -26,4 +26,5 @@ My development arsenal includes not only Rails but also tools like Tailwind and 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6347.svg?&style=for-the-badge&logo=burp-suite&logoColor=white)
 
 ### Usage Rate
+
 ![Your Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rubyongainz
