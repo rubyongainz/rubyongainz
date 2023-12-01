@@ -1,14 +1,4 @@
-# Hi there! 👋 I'm Anil and i looooooooooooooooooooooove Ruby on Rails <3
-
-Experienced Ruby on Rails Developer with a deep passion for the elegance of Ruby. Ruby on Rails has been my trusty companion for crafting robust and efficient web applications. I love diving into complex challenges and crafting solutions that shine through the power of Ruby. Whether it's building sleek user interfaces, designing efficient databases, or optimizing backend processes, I thrive on the possibilities that Ruby on Rails offers.
-
-## About Me
-
-I'm a software enthusiast who has spent my time honing my craft in web development, particularly with Ruby on Rails. I bring a wealth of experience in architecting scalable applications, implementing RESTful APIs, and crafting user-friendly interfaces. My journey has also led me to explore the dynamic worlds of JavaScript and React, enabling me to create interactive and seamless front-end experiences. I'm a firm believer in staying up-to-date with the latest trends (i must say Ruby & Rails always top of my trends regardless of time), which is why I've delved into Hotwire, Stimulus, and Turbo for pushing the boundaries of what's possible.
-
-My development arsenal includes not only Rails but also tools like Tailwind and Bootstrap for crafting stunning UIs. I'm no stranger to the DevOps realm, having harnessed Docker to ensure smooth deployment and management of applications. With a penchant for cybersecurity, I've even ventured into the realms of Kali Linux and Burp Suite for keeping digital landscapes safe and sound.
-
----
+# Hi there! 👋 I'm Anil
 
 ### Skills & Technologies
 
