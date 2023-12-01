@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anil a.k.a Ruby on Gainz
+# Hi there! 👋 I'm Anil and i looooooooooooooooooooooove Ruby on Rails <3
 
 Experienced Ruby on Rails Developer with a deep passion for the elegance of Ruby. Ruby on Rails has been my trusty companion for crafting robust and efficient web applications. I love diving into complex challenges and crafting solutions that shine through the power of Ruby. Whether it's building sleek user interfaces, designing efficient databases, or optimizing backend processes, I thrive on the possibilities that Ruby on Rails offers.
 
@@ -25,6 +25,3 @@ My development arsenal includes not only Rails but also tools like Tailwind and 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%233F7E1A.svg?&style=for-the-badge&logo=kali-linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6347.svg?&style=for-the-badge&logo=burp-suite&logoColor=white)
 
-### Usage Rate
-
-![Your Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rubyongainz)
