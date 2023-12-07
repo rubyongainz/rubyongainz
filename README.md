@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anil, i love to build website and webapps with ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+# Hi there! 👋 I'm Anil, i love to build websites and webapps
 
 ### Skills & Technologies
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
