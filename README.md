@@ -1,6 +1,4 @@
-# Hi there! 👋 I'm Anil, i love to build websites and webapps
-
-### Skills & Technologies
+# Tech Stacks that i use
 ![Laravel](https://img.shields.io/badge/Laravel-v11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/Vue-3-green?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
