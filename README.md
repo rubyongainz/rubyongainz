@@ -1,6 +1,15 @@
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Hotwire](https://img.shields.io/badge/Hotwire-%23FFB13B.svg?&style=for-the-badge&logo=hotwire&logoColor=black)
-![Stimulus.js](https://img.shields.io/badge/Stimulus-%2377B8E2.svg?&style=for-the-badge&logo=stimulus&logoColor=white.)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F80000.svg?&style=for-the-badge&logo=java&logoColor=white) 
+
+![Java Spring Boot](https://img.shields.io/badge/Java%20Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) 
+
 ![React.js](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%231CCCE5.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)  
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) 
+
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)  
+
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white) 
+
+
