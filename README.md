@@ -1,3 +1,10 @@
-![Java](https://img.shields.io/badge/Java-%23F80000.svg?&style=for-the-badge&logo=java&logoColor=white)  ![Java Spring Boot](https://img.shields.io/badge/Java%20Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)  ![React.js](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-%231CCCE5.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)  ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
-
-
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)  <!-- Laravel badge -->
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)  <!-- React badge -->
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)  <!-- MySQL badge -->
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)  <!-- SQLite badge -->
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=yellow)  <!-- JavaScript badge -->
+![jQuery](https://img.shields.io/badge/jQuery-%230E76A8.svg?&style=for-the-badge&logo=jquery&logoColor=white)  <!-- jQuery badge -->
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)  <!-- Docker badge -->
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)  <!-- Linux badge -->
+![VPS](https://img.shields.io/badge/VPS-%2300BFFF.svg?&style=for-the-badge&logo=cloudflare&logoColor=white)  <!-- VPS badge -->
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)  <!-- Figma badge -->
