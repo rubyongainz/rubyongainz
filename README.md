@@ -2,7 +2,6 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)  <!-- React badge -->
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)  <!-- Node.js badge -->
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)  <!-- Express.js badge -->
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)  <!-- NestJS badge -->
 ![Prisma](https://img.shields.io/badge/Prisma-%2D2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)  <!-- Prisma badge -->
 ![Drizzle](https://img.shields.io/badge/Drizzle-%233E63B5.svg?&style=for-the-badge&logo=drizzle&logoColor=white)  <!-- Drizzle badge -->
 ![ShadCN](https://img.shields.io/badge/ShadCN-%23FBBF24.svg?&style=for-the-badge&logo=shadcn&logoColor=black)  <!-- ShadCN badge -->
