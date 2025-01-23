@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/Python-%2338E9F9.svg?&style=for-the-badge&logo=python&logoColor=black)  <!-- Python badge -->
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white)  <!-- Flask badge -->
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)  <!-- Laravel badge -->
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)  <!-- React badge -->
@@ -10,4 +11,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)  <!-- Kubernetes badge -->
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?&style=for-the-badge&logo=github-actions&logoColor=white)  <!-- GitHub Actions badge -->
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)  <!-- Ansible badge -->
-![Python](https://img.shields.io/badge/Python-%2338E9F9.svg?&style=for-the-badge&logo=python&logoColor=black)  <!-- Python badge -->
