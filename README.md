@@ -1,3 +1,4 @@
+<!--
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)  
@@ -12,3 +13,4 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?&style=for-the-badge&logo=github-actions&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white)
+-->
